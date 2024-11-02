@@ -1,0 +1,11 @@
+#### POST request to example server
+POST localhost:3333/create-blog
+
+### GET request
+#GET localhost:3333/read-blog
+
+### PUT request
+#PUT localhost:3333/update-blog
+
+### DELETE request
+#DELETE localhost:3333/delete-blog
